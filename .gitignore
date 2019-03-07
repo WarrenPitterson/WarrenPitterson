@@ -36,6 +36,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Bulit up gulp files
+css/
+vendor/
+
 # TypeScript v1 declaration files
 typings/
 
